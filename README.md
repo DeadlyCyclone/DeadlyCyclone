@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning everything?
 - 💞️ I’m looking to collaborate on ...
 - ▶️GET CONNECTED:
-📺 YouTube | https://youtube.com/deadlycyclone
-📺 YouTube Shorts | https://youtube.com/c/ByteSizedVideos
-📺 Fortnite Videos | https://www.youtube.com/channel/UCaV26KUOyAcvfV3ThoETaQA
-🎥 Twitch | https://www.twitch.tv/deadlycyclone
-🐦 Twitter | https://twitter.com/deadlycyclone
-🐦 ByteSized Twitter | https://twitter.com/ByteSizedVideos
-📷 Instagram | https://www.instagram.com/deadlycyclone/
-📱 TikTok | https://tiktok.com/@deadlycyclone
-💰 DONATE: https://www.paypal.me/CJStrike
+- 📺 YouTube | https://youtube.com/deadlycyclone
+- 📺 YouTube Shorts | https://youtube.com/c/ByteSizedVideos
+- 📺 Fortnite Videos | https://www.youtube.com/channel/UCaV26KUOyAcvfV3ThoETaQA
+- 🎥 Twitch | https://www.twitch.tv/deadlycyclone
+- 🐦 Twitter | https://twitter.com/deadlycyclone
+- 🐦 ByteSized Twitter | https://twitter.com/ByteSizedVideos
+- 📷 Instagram | https://www.instagram.com/deadlycyclone/
+- 📱 TikTok | https://tiktok.com/@deadlycyclone
+- 💰 DONATE: https://www.paypal.me/CJStrike
 
 <!---
 DeadlyCyclone/DeadlyCyclone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
